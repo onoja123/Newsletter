@@ -1,5 +1,5 @@
 # Newsletter
-- A simple react Newsletter landing page
+- A simple Newsletter landing Page
 
 # Stack
 - React & Tailwind 
